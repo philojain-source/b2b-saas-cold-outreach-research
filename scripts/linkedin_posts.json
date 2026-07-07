@@ -1,0 +1,16 @@
+{
+  "_note": "Manually-collected LinkedIn posts (LinkedIn has no public read API; ToS forbids scraping). Consumed by format_linkedin_posts.py.",
+  "topic": "Cold outreach pipeline for B2B SaaS",
+  "experts": [
+    {"name": "Armand Farrokh", "slug": "armand-farrokh", "profile": "https://www.linkedin.com/in/armand-farrokh", "posts": []},
+    {"name": "Josh Braun", "slug": "josh-braun", "profile": "https://www.linkedin.com/in/josh-braun", "posts": []},
+    {"name": "Jason Bay", "slug": "jason-bay", "profile": "https://www.linkedin.com/in/jasondbay", "posts": []},
+    {"name": "Will Allred", "slug": "will-allred", "profile": "https://www.linkedin.com/in/williamallred", "posts": []},
+    {"name": "Becc Holland", "slug": "becc-holland", "profile": "https://www.linkedin.com/in/beccholland-flipthescript", "posts": []},
+    {"name": "Leslie Venetz", "slug": "leslie-venetz", "profile": "https://www.linkedin.com/in/leslievenetz", "posts": []},
+    {"name": "Jed Mahrle", "slug": "jed-mahrle", "profile": "https://www.linkedin.com/in/outboundsales", "posts": []},
+    {"name": "Florin Tatulea", "slug": "florin-tatulea", "profile": "https://www.linkedin.com/in/florintatulea", "posts": []},
+    {"name": "Samantha McKenna", "slug": "samantha-mckenna", "profile": "https://www.linkedin.com/in/samsalesli", "posts": []},
+    {"name": "Tito Bohrt", "slug": "tito-bohrt", "profile": "https://www.linkedin.com/in/titobohrt", "posts": []}
+  ]
+}

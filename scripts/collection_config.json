@@ -1,0 +1,20 @@
+{
+  "_note": "Manifest of YouTube / podcast videos to transcribe. Consumed by fetch_youtube_transcripts.py. Videos are added during collection.",
+  "topic": "Cold outreach pipeline for B2B SaaS",
+  "experts": [
+    {"name": "Armand Farrokh", "slug": "armand-farrokh", "channel": "30 Minutes to President's Club", "videos": [
+      {"id": "gtKZ7fP1HZM", "title": "Cold Calling Masterclass: 52 Minutes of Proven Cold Calling Tips (For B2B Sales)", "channel": "30 Minutes to President's Club", "published": "2024"}
+    ]},
+    {"name": "Josh Braun", "slug": "josh-braun", "channel": "Josh Braun (Sales School)", "videos": [
+      {"id": "wRQNpiFmvCk", "title": "Multi-Million Dollar Cold Email Prospecting Template", "channel": "Salesman.com / Sales School", "published": "2020-08-25"}
+    ]},
+    {"name": "Jason Bay", "slug": "jason-bay", "channel": "Outbound Squad", "videos": []},
+    {"name": "Will Allred", "slug": "will-allred", "channel": "Lavender", "videos": []},
+    {"name": "Becc Holland", "slug": "becc-holland", "channel": "Flip the Script", "videos": []},
+    {"name": "Leslie Venetz", "slug": "leslie-venetz", "channel": "The Sales-Led GTM Agency", "videos": []},
+    {"name": "Jed Mahrle", "slug": "jed-mahrle", "channel": "Practical Prospecting", "videos": []},
+    {"name": "Florin Tatulea", "slug": "florin-tatulea", "channel": "Common Room / Prospecting from the Trenches", "videos": []},
+    {"name": "Samantha McKenna", "slug": "samantha-mckenna", "channel": "#samsales Consulting", "videos": []},
+    {"name": "Tito Bohrt", "slug": "tito-bohrt", "channel": "AltiSales", "videos": []}
+  ]
+}
