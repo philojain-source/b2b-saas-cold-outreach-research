@@ -89,3 +89,8 @@ python format_linkedin_posts.py     --config linkedin_posts.json   --out ../rese
   rather than one large drop.
 - This is a source base, not the playbook itself; `sources.md` flags *what to mine* from
   each voice so a playbook can be built on top of it.
+
+## Synthesis
+
+- [PLAYBOOK.md](PLAYBOOK.md) - the ten experts plays stitched into one outbound cadence
+- [research/insights.md](research/insights.md) - cross-cutting patterns across the ten
